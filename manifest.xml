@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ 
+
+  <remote  name="TheMuppets"
+           fetch="https://github.com"
+           review=""
+           revision="refs/heads/cm-13.0" />
+
+  <!-- BEGIN TheMuppets -->
+  <project path="alcatel" name="TheMuppets/proprietary_vendor_alcatel" groups="device" remote="TheMuppets"/>
+  <project path="amazon" name="TheMuppets/proprietary_vendor_amazon" groups="device" remote="TheMuppets"/>
+  <project path="ark" name="TheMuppets/proprietary_vendor_ark" groups="device" remote="TheMuppets"/>
+  <project path="asus" name="TheMuppets/proprietary_vendor_asus" groups="device" remote="TheMuppets"/>
+  <project path="audienc" name="TheMuppets/proprietary_vendor_audience" groups="device" remote="TheMuppets"/>
+  <project path="bn" name="TheMuppets/proprietary_vendor_bn" groups="device" remote="TheMuppets"/>
+  <project path="bq" name="TheMuppets/proprietary_vendor_bq" groups="device" remote="TheMuppets"/>
+  <project path="brodcam" name="TheMuppets/proprietary_vendor_broadcom" groups="device" remote="TheMuppets"/>
+  <project path="elan" name="TheMuppets/proprietary_vendor_elan" groups="device" remote="TheMuppets"/>
+  <project path="google" name="TheMuppets/proprietary_vendor_google" groups="device" remote="TheMuppets"/>
+  <project path="htc" name="TheMuppets/proprietary_vendor_htc" groups="device" remote="TheMuppets"/>
+  <project path="huawi" name="TheMuppets/proprietary_vendor_huawei" groups="device" remote="TheMuppets"/>
+  <project path="invensens" name="TheMuppets/proprietary_vendor_invensense" groups="device" remote="TheMuppets"/>
+  <project path="leeco" name="TheMuppets/proprietary_vendor_leeco" groups="device" remote="TheMuppets"/>
+  <project path="lenovo" name="TheMuppets/proprietary_vendor_lenovo" groups="device" remote="TheMuppets"/>
+  <project path="lge" name="TheMuppets/proprietary_vendor_lge" groups="device" remote="TheMuppets"/>
+  <project path="motorola" name="TheMuppets/proprietary_vendor_motorola" groups="device" remote="TheMuppets"/>
+  <project path="nextbit" name="TheMuppets/proprietary_vendor_nextbit" groups="device" remote="TheMuppets"/>
+  <project path="nubia" name="TheMuppets/proprietary_vendor_nubia" groups="device" remote="TheMuppets"/>
+  <project path="nvida" name="TheMuppets/proprietary_vendor_nvidia" groups="device" remote="TheMuppets"/>
+  <project path="nxp" name="TheMuppets/proprietary_vendor_nxp" groups="device" remote="TheMuppets"/>
+  <project path="oneplus" name="TheMuppets/proprietary_vendor_oneplus" groups="device" remote="TheMuppets"/>
+  <project path="oppo" name="TheMuppets/proprietary_vendor_oppo" groups="device" remote="TheMuppets"/>
+  <project path="samsung" name="TheMuppets/proprietary_vendor_samsung" groups="device" remote="TheMuppets"/>
+  <project path="smartfren" name="TheMuppets/proprietary_vendor_smartfren" groups="device" remote="TheMuppets"/>
+  <project path="sony" name="TheMuppets/proprietary_vendor_sony" groups="device" remote="TheMuppets"/>
+  <project path="ti" name="TheMuppets/proprietary_vendor_ti"  revision="master" groups="device" remote="TheMuppets"/>
+  <project path="widevine" name="TheMuppets/proprietary_vendor_widevine" groups="device" remote="TheMuppets"/>
+  <project path="wileyfox" name="TheMuppets/proprietary_vendor_wileyfox" groups="device" remote="TheMuppets"/>
+  <project path="wingtech" name="TheMuppets/proprietary_vendor_wingtech" groups="device" remote="TheMuppets"/>
+  <project path="xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" groups="device" remote="TheMuppets"/>
+  <project path="yu" name="TheMuppets/proprietary_vendor_yu" groups="device" remote="TheMuppets"/>
+  <project path="zte" name="TheMuppets/proprietary_vendor_zte" groups="device" remote="TheMuppets"/>
+  <project path="zuk" name="TheMuppets/proprietary_vendor_zuk" groups="device" remote="TheMuppets"/>
+</manifest>
+
